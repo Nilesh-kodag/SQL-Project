@@ -1,2 +1,3 @@
 # SQL-Project
-Project describe basic and Advance queries which was taken from mode.com
+Project describe basic and Advance queries which was taken from[ mode.com](url)
+
